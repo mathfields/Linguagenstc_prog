@@ -26,7 +26,5 @@ int main(int argc, char *argv[]) {
 	a = (b+B)*h/2;
 	
 	printf ("a Area do trapezio = %0.2f\n",a);
-	printf("Pressione qualquer tecla para continuar...");
-    getchar();
 	return 0;
 }
