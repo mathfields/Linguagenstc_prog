@@ -26,6 +26,6 @@ int main(int argc, char *argv[]) {
 	bit2 = resultado%2;
 	resultado = resultado/2;
 	
-	printf ("O valor de %d em binario é %d%d%d%d%d%d%d ", n, resultado, bit2, bit4, bit8, bit16, bit32, bit64);
+	printf ("O valor de %d em binario Ã© %d%d%d%d%d%d%d ", n, resultado, bit2, bit4, bit8, bit16, bit32, bit64);
 	return 0;
 }
