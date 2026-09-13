@@ -12,16 +12,16 @@ int main(int argc, char *argv[]) {
 		
 		if (a%2 == 0){
 			if(b%2 == 0){
-				printf("S„o multiplos de 2:");
+				printf("S√£o multiplos de 2:");
 			}
 		}
 	}
 	if(a>b){
 			if (a%b == 0){
-			printf("Seus numeros s„o multiplos entre si");
+			printf("Seus numeros s√£o multiplos entre si");
 		 }else{
 		 if(b%a == 0)
-		 printf("Seus numeros s„o multiplos entre si");
+		 printf("Seus numeros s√£o multiplos entre si");
 		}
 	}
 
